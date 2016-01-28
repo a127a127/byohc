@@ -1,0 +1,10 @@
+{
+	"name": "byohc",
+	"version": "0.0.1",
+	"private": true,
+	"main": "main",
+	"dependencies": {
+		"lodash": "*",
+		"amdefine": ">=0.1.0"
+	}
+}
